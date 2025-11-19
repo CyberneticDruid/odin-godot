@@ -2,6 +2,7 @@
 
 *.gen.odin
 !libgd/classdb/bind.gen.odin
+!godot/*.gen.odin
 bindgen/templates.odin
 
 bin/
